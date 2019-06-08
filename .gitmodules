@@ -1,0 +1,3 @@
+[submodule "src/IdentityModel.OidcClient2"]
+	path = src/IdentityModel.OidcClient2
+	url = https://github.com/IdentityModel/IdentityModel.OidcClient2.git
